@@ -45,7 +45,9 @@ $config['special_uri'] = ['login', 'logout'];
 Add the language file in **language** folder.
 **Example**
 > language/english/welcome_lang.php
+
 > language/french/welcome_lang.php
+
 
 First you need to load the library and some helpers.
 In config file **config/autoload.php**
